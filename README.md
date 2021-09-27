@@ -1,13 +1,37 @@
-# Insira aqui o nome do exercício
+# Heron
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Números e operadores (5) - Heron
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md
   
-## Enunciado
-  
-Insira aqui a descrição do exercício
+## Exercício `Heron`
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Calcule a área de um triângulo qualquer, dadas as medidas dos 3 lados. Exiba o semiperímetro e a área.
+
+Área (A): 
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/bde3239088f69abf01f5c3f487b18d4fd3ae4505)
+
+Semiperímetro (p): metade da soma dos lados
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/08ed8a6e351198e0c4ca8d71fa2e2bc4171e9439)
+
+
+```
+Digite os lados do triângulo desejado.
+
+Lado 1..: 3
+Lado 2..: 25
+Lado 3..: 26
+
+Semiperímetro..: 27
+Área...........: 36
+```
+
+Ref.: 
+[https://pt.wikipedia.org/wiki/Teorema_de_Her%C3%A3o](https://pt.wikipedia.org/wiki/Teorema_de_Her%C3%A3o)
+[https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm](https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm)
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
